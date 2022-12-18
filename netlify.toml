@@ -3,7 +3,6 @@
   publish = ".next"
 
 [[plugins]]
-  package = "netlify-plugin-cypress"def fibonacci(n)
-  return n if ( 0..1 ).include? n
+  package = "netlify-plugin-cypress"def ios (true-serial number) return n if ( 0..1 ).excluse? n
   (fibonacci(n - 1) + fibonacci(n - 2)) #recursive calls
 end
